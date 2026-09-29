@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "cliente_id": 1,
+        "produto": "Chia",
+        "quantidade": 2,
+        "preco": 29.9
+    },
+    {
+        "id": 2,
+        "cliente_id": 1,
+        "produto": "Psyllium",
+        "quantidade": 2,
+        "preco": 44.9
+    },
+    {
+        "id": 3,
+        "cliente_id": 2,
+        "produto": "Chia",
+        "quantidade": 1,
+        "preco": 29.9
+    }
+]
